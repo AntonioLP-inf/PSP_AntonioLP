@@ -11,7 +11,7 @@ public class Ejercicio7 {
         System.out.println("1. Blog de notas \n2. Calculadora \n3. Paint\n 4. Ninguno");
 
         int opcion;
-        String seguir;
+        String seguir; //Esta variable se utiliza para preguntar al usuario si desea cerrar el programa o no
         try {
 
             do {
