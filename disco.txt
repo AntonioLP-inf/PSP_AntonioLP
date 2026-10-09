@@ -1,0 +1,50 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 5740-5C20
+
+ Directorio de C:\Users\PC117\Desktop\Acceso a datos\PSP_AntonioLP
+
+08/10/2026  11:02    <DIR>          .
+01/10/2026  09:03    <DIR>          ..
+01/10/2026  10:39             4.563 apuntes.txt
+06/10/2026  14:18    <DIR>          bloque1
+08/10/2026  11:02                 0 disco.txt
+08/10/2026  08:44               195 equipo.txt
+08/10/2026  11:02            25.107 lento.txt
+01/10/2026  10:00            33.644 procesos.txt
+08/10/2026  11:01    <DIR>          programacionexamen1AntonioLP (1)
+08/10/2026  11:01            26.447 programacionexamen1AntonioLP (1).zip
+08/10/2026  11:02                30 usuarios.txt
+               7 archivos         89.986 bytes
+               4 dirs  134.031.376.384 bytes libres
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 5740-5C20
+
+ Directorio de C:\Users\PC117\Desktop\Acceso a datos\PSP_AntonioLP
+
+08/10/2026  11:05    <DIR>          .
+01/10/2026  09:03    <DIR>          ..
+01/10/2026  10:39             4.563 apuntes.txt
+06/10/2026  14:18    <DIR>          bloque1
+08/10/2026  11:02               810 disco.txt
+08/10/2026  11:05            50.291 lento.txt
+08/10/2026  11:03    <DIR>          programacionexamen1AntonioLP (1)
+08/10/2026  11:01            26.447 programacionexamen1AntonioLP (1).zip
+08/10/2026  11:05                30 usuarios.txt
+               5 archivos         82.141 bytes
+               4 dirs  134.027.268.096 bytes libres
+ El volumen de la unidad C no tiene etiqueta.
+ El n�mero de serie del volumen es: 5740-5C20
+
+ Directorio de C:\Users\PC117\Desktop\Acceso a datos\PSP_AntonioLP
+
+08/10/2026  11:05    <DIR>          .
+01/10/2026  09:03    <DIR>          ..
+01/10/2026  10:39             4.563 apuntes.txt
+06/10/2026  14:18    <DIR>          bloque1
+08/10/2026  11:05             1.524 disco.txt
+08/10/2026  11:05            50.291 lento.txt
+08/10/2026  11:03    <DIR>          programacionexamen1AntonioLP (1)
+08/10/2026  11:01            26.447 programacionexamen1AntonioLP (1).zip
+08/10/2026  11:05                30 usuarios.txt
+               5 archivos         82.855 bytes
+               4 dirs  134.030.462.976 bytes libres
